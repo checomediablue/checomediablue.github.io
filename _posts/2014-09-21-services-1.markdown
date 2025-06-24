@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Recent videos
+title: Recent videos.
 description: |
 ---
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ammjmr3V6wQ?si=6X365OZUYhJp6psD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
